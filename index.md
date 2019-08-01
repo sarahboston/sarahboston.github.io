@@ -1,9 +1,9 @@
 ---
-title: Boston Lab
+title: Welcome
 layout: page
-feature_image: "https://photos.app.goo.gl/bf73i415iYTWqowE6"
+feature_image: “https://sarahboston.github.io/assets/Denali.JPG“
 feature_text: |
-  ## Welcome
+  ## Boston Lab
 ---
 
 There isn't much going on here yet, but watch this space
