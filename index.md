@@ -6,4 +6,4 @@ feature_text: |
   ## Boston Lab
 ---
 
-There isn't much going on here yet, but watch this space
+Welcome to the Boston laboratory! 
