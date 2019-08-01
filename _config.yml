@@ -22,7 +22,7 @@ plugins:
 # Site settings
 url: 'https://sarahboston.github.io/'
 baseurl: ''
-title: 'My website'
+title: 'Sarah Boston'
 description: 'This is my new website'
 permalink: pretty
 logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
