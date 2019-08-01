@@ -20,7 +20,7 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://sarahboston.github.io/'
 baseurl: ''
 title: 'My website'
 description: 'This is my new website'
@@ -35,8 +35,8 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Home
   url: /
-- title: About
-  url: /about/
+- title: CV
+  url: /cv/
 - title: Blog
   url: /blog/
 
