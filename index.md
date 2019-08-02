@@ -1,7 +1,7 @@
 ---
 title: Welcome
 layout: page
-feature_image: "https://user-images.githubusercontent.com/53156543/62320385-0bddd380-b46e-11e9-89b5-f6749fc71f1b.JPG"
+feature_image: "https://user-images.githubusercontent.com/53156543/62402857-e62cf900-b557-11e9-836d-3bb59cf3d74d.JPG"
 feature_text: |
   ## Boston Lab
 ---
