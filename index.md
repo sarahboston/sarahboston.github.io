@@ -6,4 +6,4 @@ feature_text: |
   ## Boston Lab
 ---
 
-Welcome to the Boston laboratory! We study the Earth, the ocean, and space.
+Welcome to the Boston laboratory! We study the Earth, the ocean, and space. Testing...
