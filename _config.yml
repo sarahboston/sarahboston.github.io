@@ -73,3 +73,4 @@ social: # jekyll-seo-tag > social overrides
 # commonmark:
   # options: ["SMART", "FOOTNOTES"]
   # extensions: ["strikethrough", "autolink", "table"]
+<link rel="stylesheet" href="/path/to/folder/css/academicons.min.css"/>
