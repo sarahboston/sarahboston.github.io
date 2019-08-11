@@ -8,4 +8,4 @@ feature_text: |
 
 Welcome to the Boston laboratory! We study the Earth, the ocean, and space. Testing.
 
-{% include button.html text="Google Scholar" icon=<i class="ai ai-google-scholar-square ai-3x"></i> link="https://scholar.google.com/citations?user=BlvnMOgAAAAJ&hl=en&oi=ao" color="#0d94e7" %}
+{% include button.html text="Google Scholar" icon="google scholar" link="https://scholar.google.com/citations?user=BlvnMOgAAAAJ&hl=en&oi=ao" color="#0d94e7" %}
