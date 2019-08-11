@@ -9,5 +9,5 @@ I'm not sure yet what this website is about, but I'm sure I'll work it out soon.
 
 {% include video.html id="zrkcGL5H3MU" title="Siteleaf tutorial video" %}
 
-{% raw %}{% include button.html text="A button" link="https://david.darn.es" %}
+{% include button.html text="A button" link="https://david.darn.es" %}
 {% include button.html text="A button with icon" link="https://twitter.com/daviddarnes" icon="twitter" %}{% endraw %}
