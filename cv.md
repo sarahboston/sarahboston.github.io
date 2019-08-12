@@ -5,6 +5,10 @@ title: Curriculum Vitae
 
 I'm not sure yet what this website is about, but I'm sure I'll work it out soon.
 
+# Heading 1
+
+## Heading 2
+
 {% include figure.html image="https://user-images.githubusercontent.com/53156543/62402857-e62cf900-b557-11e9-836d-3bb59cf3d74d.JPG" caption="Image with caption" position="left" width="300" height="800" %}
 Testing Testing Testing
 Testing Testing Testing
