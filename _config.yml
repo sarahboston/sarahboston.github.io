@@ -35,8 +35,8 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Home
   url: /
-- title: CV
-  url: /cv/
+- title: Research
+  url: /research/
 - title: Blog
   url: /blog/
 
