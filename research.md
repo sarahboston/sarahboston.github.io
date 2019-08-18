@@ -5,7 +5,7 @@ title: Research
 
 My research is focused on using active and passive seismic methods to study tectonics, volcanism, and hazards. I'm interested in the large-scale processes that shape the Earth, and how these processes affect people.
 
-Find me at: {% include button.html text="Google Scholar" link="https://david.darn.es" %}
+Find me at: {% include button.html text="Google Scholar" link="https://scholar.google.com/citations?user=BlvnMOgAAAAJ&hl=en&oi=ao" %}
 
 ## Hawaiian-Emperor Seamount Chain
 {% include figure.html image="https://user-images.githubusercontent.com/53156543/62402857-e62cf900-b557-11e9-836d-3bb59cf3d74d.JPG" caption="Image with caption" position="left" width="300" height="800" %}
