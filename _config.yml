@@ -1,6 +1,5 @@
 # Set theme
 remote_theme: daviddarnes/alembic
-<link rel="stylesheet" href="/path/to/folder/css/academicons.min.css"/>
 
 # File excludes
 exclude:
