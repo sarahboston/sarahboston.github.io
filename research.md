@@ -10,7 +10,7 @@ Find me at: {% include button.html content="\e9f9" text="Google Scholar" link="h
 
 
 ## Hawaiian-Emperor Seamount Chain test
-{% include figure.html image="{{site.url}}/images/IMG_3853.JPG" caption="Image with caption" position="left" width="300" height="800" %}
+{% include figure.html image="{site.url}/images/IMG_3853.JPG" caption="Image with caption" position="left" width="300" height="800" %}
 The Hawaiian-Emperor Seamount Chain is a beautiful type example of a seamount chain, built up through magmatic activity over time as the Pacific plate moved over the Hawaiian hotspot. 
 testing
 testing
