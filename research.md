@@ -7,6 +7,7 @@ My research is focused on using active and passive seismic methods to study tect
 
 Find me at: {% include button.html icon="\e9f9" text="Google Scholar" link="https://scholar.google.com/citations?user=BlvnMOgAAAAJ&hl=en&oi=ao" color="#0d94e7"%}
 
+<i class="ai ai-google-scholar-square ai-3x"></i>
 {% include icon.html id="\e9f9" title="Google Scholar"%}(https://scholar.google.com/citations?user=BlvnMOgAAAAJ&hl=en&oi=ao)
 
 
