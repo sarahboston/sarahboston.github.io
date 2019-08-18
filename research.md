@@ -19,7 +19,7 @@ testing!
 Zealandia, located in X, is sometimes called the "Hidden Continent" since over 90% of it is submerged beneath the ocean. In 2017, I sailed on the R/V Kairei as part of a multi-leg campaign to collect active source seismic data, piston cores, and box cores to study this unique continental endmember.
 See:
 
-**Boston, B.**, _et al._ (2018). [a link](https://earth-planets-space.springeropen.com/articles/10.1186/1880-5981-66-135 "link")
+**Boston, B.**, _et al._ (2018). [link](https://earth-planets-space.springeropen.com/articles/10.1186/1880-5981-66-135 "link")
 
 Gallais, F., Fujie, G., **Boston, B.** _et al._ (2018).
 
