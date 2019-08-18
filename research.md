@@ -7,6 +7,9 @@ My research is focused on using active and passive seismic methods to study tect
 
 Find me at: {% include button.html icon="\e9f9" text="Google Scholar" link="https://scholar.google.com/citations?user=BlvnMOgAAAAJ&hl=en&oi=ao" color="#0d94e7"%}
 
+{% include icon.html id="\e9f9" title="Google Scholar"%}(https://scholar.google.com/citations?user=BlvnMOgAAAAJ&hl=en&oi=ao)
+
+
 ## Hawaiian-Emperor Seamount Chain
 {% include figure.html image="https://user-images.githubusercontent.com/53156543/62402857-e62cf900-b557-11e9-836d-3bb59cf3d74d.JPG" caption="Image with caption" position="left" width="300" height="800" %}
 The Hawaiian-Emperor Seamount Chain is a beautiful type example of a seamount chain, built up through magmatic activity over time as the Pacific plate moved over the Hawaiian hotspot. 
