@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: ## Welcome
 layout: page
 feature_image: "https://sarahboston.github.io/assets/images/IMG_3853.JPG"
 feature_text: |
