@@ -4,5 +4,12 @@ styles: true
 ---
 
 @import url("https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css" rel="stylesheet");
+
+.ai-google-scholar {
+  padding: 5px;
+  @include social-media-icon($google-scholar-color, $icon-transition-time);
+}
+
+
 @import "alembic";
 
