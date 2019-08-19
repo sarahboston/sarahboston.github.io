@@ -8,6 +8,6 @@ feature_text: |
 
 Welcome to the Cat laboratory! We study the Earth, the ocean, and space. Testing. Testing
 
-{% include icon.html id="twitter" title="twitter" %}
-{% include button.html icon="twitter" text="Google Scholar" link="https://scholar.google.com/citations?user=BlvnMOgAAAAJ&hl=en&oi=ao" color="#0d94e7" width=20%}
-{% include button.html icon="acclaim" text="Test" link="https://scholar.google.com/citations?user=BlvnMOgAAAAJ&hl=en&oi=ao" color="#0d94e7" width=50%}
+{% include icon.html id="test" title="twitter" %}
+{% include button.html icon="test" text="Google Scholar" link="https://scholar.google.com/citations?user=BlvnMOgAAAAJ&hl=en&oi=ao" color="#0d94e7" width=20%}
+{% include button.html icon="twitter" text="Test" link="https://scholar.google.com/citations?user=BlvnMOgAAAAJ&hl=en&oi=ao" color="#0d94e7" width=50%}
