@@ -8,7 +8,13 @@ feature_text: |
 
 Welcome to the Cat laboratory! We study the Earth, the ocean, and space. Testing. Testing
 
-<i class="ai ai-google-scholar-square ai-3x"></i>
+{-% if _author.scholar -%}
+  <li title="">
+    <a class="button button--circle scholar-button" itemprop="sameAs" href="" target="_blank">
+    <i class="ai ai-google-scholar"></i>
+    </a>
+  </li>
+{-% endif -%}
 
 {% include icon.html id="cv" title="twitter" %}
 {% include button.html icon="cv" text="Google Scholar" link="https://scholar.google.com/citations?user=BlvnMOgAAAAJ&hl=en&oi=ao" color="#0d94e7" width=20%}
