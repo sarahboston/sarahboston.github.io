@@ -8,7 +8,7 @@ feature_text: |
 
 Welcome to the Cat laboratory! We study the Earth, the ocean, and space. Testing. Testing!
 
-<a href="https://scholar.google.com/citations?user=BlvnMOgAAAAJ&hl=en&oi=ao" style="background: none"><img src="https://www.sarahboston.github.io/assets/images/googlescholar_icon" alt="Google Scholar"></a>
+<a href="https://scholar.google.com/citations?user=BlvnMOgAAAAJ&hl=en&oi=ao" style="background: none"><img src="assets/images/googlescholar_icon.png" alt="Google Scholar"></a>
 
  <a
   href="http://scholar.google.com/citations?user=CcjBiT8AAAAJ&hl=en&oi=sra"
