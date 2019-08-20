@@ -14,6 +14,6 @@ Welcome to the Cat laboratory! We study the Earth, the ocean, and space. Testing
   href="http://scholar.google.com/citations?user=CcjBiT8AAAAJ&hl=en&oi=sra"
   target="_blank"><img src="googlescholar_icon.png"/></a>
 
-{% include icon.html icon="google-scholar-square" link="https://scholar.google.com/citations?user=BlvnMOgAAAAJ&hl=en&oi=ao" color="#0d94e7" %}
+{% include icon.html icon="facebook" link="https://scholar.google.com/citations?user=BlvnMOgAAAAJ&hl=en&oi=ao" color="#0d94e7" %}
 {% include button.html icon="facebook" text="Google Scholar" link="https://scholar.google.com/citations?user=BlvnMOgAAAAJ&hl=en&oi=ao" color="#0d94e7" width=20%}
 {% include button.html icon="twitter" text="Test" link="https://scholar.google.com/citations?user=BlvnMOgAAAAJ&hl=en&oi=ao" color="#0d94e7" width=50%}
