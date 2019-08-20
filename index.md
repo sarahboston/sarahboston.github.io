@@ -15,5 +15,5 @@ Welcome to the Cat laboratory! We study the Earth, the ocean, and space. Testing
 
 <a href="https://www.researchgate.net/profile/Brian_Boston" style="background: none"><img src="assets/images/researchgate_icon.png" alt="ResearchGate" width="40" height="40"></a>
 
-{% include button.html icon="google-scholar" text="Google Scholar" link="https://scholar.google.com/citations?user=BlvnMOgAAAAJ&hl=en&oi=ao" color="#0d94e7" width=20%}
+{% include button.html icon="facebook" text="Google Scholar" link="https://scholar.google.com/citations?user=BlvnMOgAAAAJ&hl=en&oi=ao" color="#0d94e7" width=20%}
 {% include button.html icon="twitter" text="Test" link="https://scholar.google.com/citations?user=BlvnMOgAAAAJ&hl=en&oi=ao" color="#0d94e7" width=50%}
