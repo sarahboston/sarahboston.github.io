@@ -8,11 +8,21 @@ feature_text: |
 
 Welcome to the Cat laboratory! We study the Earth, the ocean, and space. Testing. Testing
 
-<li title="">
-    <a class="button button--circle scholar-button" itemprop="sameAs" href="" target="_blank">
-    <i class="ai ai-google-scholar"></i>
-    </a>
-  </li>
+$researchgate-color: #00d09d;
+$google-scholar-color: #4788ee;
+
+.ai-researchgate {
+  padding: 5px;
+  @include social-media-icon($researchgate-color, $icon-transition-time);
+}
+
+.ai-google-scholar {
+  padding: 5px;
+  @include social-media-icon($google-scholar-color, $icon-transition-time);
+}
+
+
+{% include social-media-icon.html id="google=scholar"};
 
 
 {% include icon.html id="cv" title="twitter" %}
